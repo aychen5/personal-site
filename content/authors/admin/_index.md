@@ -20,12 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include...
 
-<!--
+
 interests:
 - Misinformation
 - Causal Inference
-- 
--->
 
 education:
   courses:
@@ -62,12 +60,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "aychen.555@gmail.com"
 
-<!---# Organizational groups that you belong to (for People widget)
+# Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Visitors
 ---
--->
 
 Hello! I am a graduate student at McGill University in the Department of Political Science, and a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I am broadly interested in applying experimental design principles and statistical techniques to make causal inferences in the social sciences. I study comparative voting behaviour and electoral institutions. 
