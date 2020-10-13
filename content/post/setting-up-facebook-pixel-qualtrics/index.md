@@ -4,12 +4,12 @@
 title: "Setting up a Facebook Pixel on Qualtrics"
 subtitle: ""
 summary: ""
-authors: []
+authors: [Annie C.]
 tags: []
 categories: []
 date: 2020-10-13T12:09:59-04:00
 lastmod: 2020-10-13T12:09:59-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
