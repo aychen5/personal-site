@@ -1,6 +1,7 @@
 ---
-title: "Incumbency Effects in Australia"
+title: Incumbency Effects in Australia
 date: 2020-08-15T17:51:59-05:00
+featured: true
 publication_types: "3"
 draft: false
 
