@@ -7,7 +7,6 @@ authors:
   - admin
 title: Annie Chen
 role: Research Associate
-bio: My research interests include...
 interests:
   - Information consumption online
   - Voting systems and voting behavior
@@ -38,7 +37,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am the current [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like grappling with social science questions by using experimental and quasi-experimental strategies to make causal inferences. I often find the assumptions underlying causal interpretations equally as interesting. Recently, I have been studying and thinking about the spread of misinformation online and content moderation. 
+Hi! I am the current [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like grappling with social science questions by using experimental and quasi-experimental strategies to make causal inferences and often find the assumptions underlying causal interpretations equally as interesting. Recently, I have been thinking about the spread of misinformation online and content moderation. 
 
 
 
