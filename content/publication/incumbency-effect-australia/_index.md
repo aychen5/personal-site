@@ -1,8 +1,7 @@
 ---
 title: Incumbency Effects in Australia
 date: N.d.
-publication_types: 3
-abstract: 
+publication_types: "3"
 
 # View.
 #   1 = List
