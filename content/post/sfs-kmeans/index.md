@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shit From Scratch (SFS): K-means clustering"
+title: "Shit From Scratch (SFS) in Julia: K-means clustering"
 subtitle: ""
 summary: ""
 authors: [Annie C.]
@@ -23,7 +23,7 @@ image:
 projects: []
 ---
 
-# The K-means Algorithm
+### The K-means Algorithm
 
 1. Choose random centroids
 Do until convergence:
@@ -31,9 +31,9 @@ Do until convergence:
 - Update $\theta_k$ -- calculate new centroids
 - Update change in objective function
 
-# Coding it up
+### Coding it up
 
-```julia
+```jl
 # load all the packages we're using
 using DataFrames, CSV
 using Statistics, Random, Distributions
@@ -42,3 +42,9 @@ using Plots
 using RCall
 @rlibrary ggplot2
 ```
+
+
+
+
+
+
