@@ -27,7 +27,7 @@ theme = "academic"
 enableGitInfo = true
 
 # Syntax highlighting
-pygmentsCodeFences: true
+pygmentsCodeFences = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
