@@ -28,6 +28,7 @@ enableGitInfo = true
 
 # Syntax highlighting
 pygmentsCodeFences = true
+highlightjslanguages = ["julia"]
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
