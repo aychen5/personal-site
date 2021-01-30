@@ -3,6 +3,7 @@ title: "Australia Incumbency Effect"
 date: 2021-01-30T09:25:29-05:00
 draft: false
 featured: true
+widget: publication
 ---
 
 **Partisanship, Personalisation of Politics, and Incumbency in Australia**
