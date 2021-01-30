@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -19,33 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Annie Chen"
+  organization_url = ""
+  title = "Partisanship, Personalisation of Politics, and Incumbency in Australia"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2020-08-01"
   date_end = ""
-  description = ""
+  description = "What are the electoral advantages of current officeholders in a highly partisan environment? To answer this question, I evaluate overall incumbency effects and personal incumbency effects in Australian elections and find that incumbent parties receive a small boost in vote shares on average, but that this effect is asymmetric between parties in federal elections. By contrast, incumbent legislators who barely win an election tend to receive the same or even fewer votes than non-incumbents in the next election. I also find no evidence that incumbency advantages have increased over time in the face of eroding partisanship in Australia. These results suggest that party ties in Australia remain a salient feature of its political landscape despite the personalisation of politics."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Aaron Erlich, Thomas Soehl, Annie Chen"
+  organization_url = ""
+  title = "It's personal: Immigration bans and feelings towards Americans --- evidence from Nigerian migrants"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
   description = ""
-
+ 
 +++
