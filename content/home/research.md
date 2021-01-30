@@ -74,6 +74,10 @@ Abstract: What are the electoral advantages of current officeholders in a highly
 
 
 
+**It's personal: Immigration bans and feelings towards Americans --- evidence from Nigerian migrants**
+(with Aaron Erlich and Thomas Soehl)
+
+
 
 
 

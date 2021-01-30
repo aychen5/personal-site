@@ -4,7 +4,6 @@ date: 2020-11-20T12:09:59-04:00
 publication_types: "3"
 draft: false
 featured: true
-view: 3
 ---
 
 
