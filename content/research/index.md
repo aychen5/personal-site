@@ -1,12 +1,10 @@
 ---
-title: Incumbency Effects in Australia
-date: 2020-11-20T12:09:59-04:00
-publication_types: "3"
+title: "Australia Incumbency Effect"
+date: 2021-01-30T09:25:29-05:00
 draft: false
 featured: true
-view: 3
+publication_type: "3"
 ---
-
 
 **Partisanship, Personalisation of Politics, and Incumbency in Australia**
 
@@ -16,4 +14,5 @@ Abstract: What are the electoral advantages of current officeholders in a highly
 
 **It's personal: Immigration bans and feelings towards Americans --- evidence from Nigerian migrants**
 (with Aaron Erlich and Thomas Soehl)
+
 
