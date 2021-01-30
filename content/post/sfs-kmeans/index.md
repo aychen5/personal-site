@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shit From Scratch in Julia (SFS.jl): K-means clustering"
+title: "Shit From Scratch in Julia: K-means clustering"
 subtitle: ""
 summary: ""
 authors: [Annie C.]
