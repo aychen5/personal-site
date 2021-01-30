@@ -1,6 +1,6 @@
 ---
 title: Incumbency Effects in Australia
-date: 2020-12-20T12:09:59-04:00
+date: 2020-11-20T12:09:59-04:00
 publication_types: "3"
 draft: false
 featured: true
