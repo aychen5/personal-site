@@ -3,6 +3,7 @@ title: "Australia Incumbency Effect"
 date: 2021-01-30T09:25:29-05:00
 draft: false
 featured: true
+publication_type: "3"
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: publication
