@@ -24,7 +24,7 @@ title: Annie Chen
 role: Research Associate
 bio: My research interests include...
 interests:
-  - Information consumption online
+  - Online information consumption
   - Voting systems and voting behavior
   - Causal inference
 social:
@@ -34,9 +34,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/annie_y_chen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/aychen5
@@ -53,7 +50,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am the current [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like wrestling with social science questions using experimental and quasi-experimental techniques when possible, but also appreciate good quantitative descriptions. Recently, I have been studying and thinking about the spread of misinformation and online content moderation. 
+Hi! I am the current [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like wrestling with social science questions using experimental and quasi-experimental techniques. Recently, I have been studying and thinking about the spread of misinformation and online content moderation. 
 
 
 
