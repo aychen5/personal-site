@@ -1,16 +1,10 @@
 ---
 title: Incumbency Effects in Australia
-date: 2020-08-15T17:51:59-05:00
-featured: true
+date: 2020-12-20T12:09:59-04:00
 publication_types: "3"
 draft: false
-
-view: 4
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+featured: true
+view: 3
 ---
 
 
