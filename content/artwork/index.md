@@ -1,5 +1,5 @@
 ---
-subtitle: "..."
+subtitle: "<p hidden><p>"
 ---
 
 {{< figure src="floating_city.jpg" title=" Iquitos, Peru" numbered="false" >}}
