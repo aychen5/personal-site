@@ -3,9 +3,9 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Research"
 subtitle = ""
 
 # Date format
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   organization = "Annie Chen"
   organization_url = ""
   title = "Partisanship, Personalisation of Politics, and Incumbency in Australia"
-  url = ""
+  url = "https://drive.google.com/file/d/1FTWxoTTiGSIgoVPQwSQyg3_2XkAAyKdl/view?usp=sharing"
   certificate_url = ""
   date_start = "2020-08-01"
   date_end = ""
