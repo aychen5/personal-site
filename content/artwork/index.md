@@ -2,12 +2,12 @@
 subtitle: "<p hidden><p>"
 ---
 
-{{< figure src="floating_city.jpg" title=" Iquitos, Peru" numbered="false" >}}
+{{< figure src="floating_city.jpg" title=" Iquitos, Peru (2015)" numbered="false" >}}
 
-{{< figure src="hands.jpg" title=" hands" numbered="false" >}}
+{{< figure src="hands.jpg" title=" hands (2015)" numbered="false" >}}
 
-{{< figure src="solo1.jpg" title=" solo 1" numbered="false" >}}
-{{< figure src="solo2.jpg" title=" solo 2" numbered="false" >}}
-{{< figure src="solo3.jpg" title=" solo 3" numbered="false" >}}
+{{< figure src="solo1.jpg" title=" (2013)" numbered="false" >}}
+{{< figure src="solo2.jpg" title=" (2013)" numbered="false" >}}
+{{< figure src="solo3.jpg" title=" (2013)" numbered="false" >}}
 
-{{< figure src="rainni.jpg" title=" brother" numbered="false" >}}
+{{< figure src="rainni.jpg" title=" Rainni (2012)" numbered="false" >}}
