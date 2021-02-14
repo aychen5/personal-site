@@ -50,7 +50,6 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am the current [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like wrestling with social science questions using experimental and quasi-experimental techniques. Recently, I have been studying and thinking about the spread of misinformation and online content moderation. 
 
 
 
