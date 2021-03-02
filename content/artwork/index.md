@@ -2,6 +2,7 @@
 subtitle: "<p hidden><p>"
 ---
 
+{{< figure src="dartmouth.jpg" title=" Dartmouth (2020)" numbered="false" >}}
 {{< figure src="floating_city.jpg" title=" Iquitos, Peru (2015)" numbered="false" >}}
 
 {{< figure src="hands.jpg" title=" hands (2015)" numbered="false" >}}
