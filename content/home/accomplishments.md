@@ -41,11 +41,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Aaron Erlich, Thomas Soehl, Annie Y. Chen"
   organization_url = ""
-  title = "It's personal: Immigration bans and feelings towards Americans --- evidence from Nigerian migrants"
+  title = "Nigerians at Home and Abroad Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Migrants"
   url = ""
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "(under review)"
+  description = "(R&R)"
  
 +++
