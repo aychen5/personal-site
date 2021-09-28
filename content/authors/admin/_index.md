@@ -1,14 +1,15 @@
 ---
 organizations:
-  - name: Dartmouth College
-    url: ""
+  - name: Institute for State and Local Governance
+    url: "https://islg.cuny.edu/"
 superuser: true
 authors:
   - admin
-title: Annie Chen
-role: Research Associate
+title: Annie Y. Chen
+role: Data Scientist
 interests:
-  - Information consumption online
+  - Criminal justice reform
+  - Online information consumption
   - Voting systems and voting behavior
   - Causal inference
 social:
@@ -37,7 +38,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am the current [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like wrestling with social science questions using a combination of experimental and quasi-experimental techniques. These days, I am often thinking about content moderation and the spread of misinformation online. 
+Hi! I am a Data Scientist at the [CUNY Institute for State and Local Governance](https://islg.cuny.edu/) supporting work on the [Safety and Justice Challenge](https://www.safetyandjusticechallenge.org/) and the NYPD Reform initiative. I was a [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like wrestling with social science questions using a combination of experimental and quasi-experimental techniques. 
 
 
 
