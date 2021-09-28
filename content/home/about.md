@@ -15,15 +15,16 @@ author = "admin"
 
 ---
 organizations:
-  - name: Dartmouth College
-    url: ""
+  - name: Institute for State and Local Governance
+    url: "https://islg.cuny.edu/"
 superuser: true
 authors:
   - admin
 title: Annie Chen
-role: Research Associate
+role: Data Scientist
 bio: My research interests include...
 interests:
+  - Criminal justice reform
   - Online information consumption
   - Voting systems and voting behavior
   - Causal inference
