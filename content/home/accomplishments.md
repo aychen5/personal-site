@@ -32,12 +32,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Aaron Erlich, Thomas Soehl, Annie Y. Chen"
   organization_url = ""
-  title = "Nigerians at Home and Abroad Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Migrants"
-  url = ""
+  title =  "(Forthcoming Journal of Experimental Politics) Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Expatriates"
+  url = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V8NM9T"
   certificate_url = ""
   date_start = "2020-04-01"
   date_end = ""
-  description = "Forthcoming Journal of Experimental Politics"
+  description = "Do discriminatory U.S. immigration policies affect foreign public opinion about Americans? When examining negative reactions to U.S. actions perceived as bullying on the world stage, existing research has focused either on U.S. policies that involve direct foreign military intervention or seek to influence foreign countries’ domestic economic policy or policies advocating minority representation. We argue that U.S. immigration policies—especially when they are perceived as discriminatory—can similarly generate anti-American sentiment. Using data from a conjoint experiment embedded in a unique survey of Nigerian expatriates in Ghana in the field before and after President Trump surprisingly announced a ban on Nigerian immigration to the United States, we estimate a large 13 percentage point drop in Nigerian subjects’ favorability towards American citizens."
   
 [[item]]
   organization = "Annie Y. Chen"
