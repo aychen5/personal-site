@@ -32,12 +32,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Aaron Erlich, Thomas Soehl, Annie Y. Chen"
   organization_url = ""
-  title =  "(Forthcoming Journal of Experimental Politics) Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Expatriates"
-  url = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/V8NM9T"
+  title =  "Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Expatriates (Journal of Experimental Politics)"
+  url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discriminatory-immigration-bans-elicit-antiamericanism-in-targeted-communities-evidence-from-nigerian-expatriates/22D07261FCD7D6AA453F7641F80D9F71/share/dd96a013722298a536ce48233c2373766d0053c9"
   certificate_url = ""
-  date_start = "2021-08-01"
+  date_start = "2021-10-21"
   date_end = ""
-  description = "Do discriminatory U.S. immigration policies affect foreign public opinion about Americans? When examining negative reactions to U.S. actions perceived as bullying on the world stage, existing research has focused either on U.S. policies that involve direct foreign military intervention or seek to influence foreign countries’ domestic economic policy or policies advocating minority representation. We argue that U.S. immigration policies—especially when they are perceived as discriminatory—can similarly generate anti-American sentiment. Using data from a conjoint experiment embedded in a unique survey of Nigerian expatriates in Ghana in the field before and after President Trump surprisingly announced a ban on Nigerian immigration to the United States, we estimate a large 13 percentage point drop in Nigerian subjects’ favorability towards American citizens."
+  description = "Do discriminatory US immigration policies affect foreign public opinion about Americans? When examining negative reactions to US actions perceived as bullying on the world stage, existing research has focused either on US policies that involve direct foreign military intervention or seek to influence foreign countries’ domestic economic policy or policies advocating minority representation. We argue that US immigration policies – especially when they are perceived as discriminatory – can similarly generate anti-American sentiment. We use a conjoint experiment embedded in a unique survey of Nigerian expatriates in Ghana. Comparing respondents before and after President Trump surpisingly announced a ban on Nigerian immigration to the United States, we find a large drop (13 percentage points) in Nigerian’s favorability towards Americans."
   
 [[item]]
   organization = "Annie Y. Chen"
