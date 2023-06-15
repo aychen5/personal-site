@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Aaron Erlich, Thomas Soehl, Annie Y. Chen"
   organization_url = ""
-  title =  "Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Expatriates (Journal of Experimental Politics)"
+  title =  "Discriminatory Immigration Bans Elicit Anti-Americanism in Targeted Communities: Evidence from Nigerian Expatriates (Journal of Experimental Political Science)"
   url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/discriminatory-immigration-bans-elicit-antiamericanism-in-targeted-communities-evidence-from-nigerian-expatriates/22D07261FCD7D6AA453F7641F80D9F71/share/dd96a013722298a536ce48233c2373766d0053c9"
   certificate_url = ""
   date_start = "2021-10-21"

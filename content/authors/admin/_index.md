@@ -38,7 +38,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am a Data Scientist at the [CUNY Institute for State and Local Governance](https://islg.cuny.edu/) supporting work on the [Safety and Justice Challenge](https://www.safetyandjusticechallenge.org/) and the NYPD Reform initiative. I was a [Bright Line Watch](http://brightlinewatch.org/) Fellow and Research Associate at Dartmouth College in the Department of Quantitative Social Science. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada, where I was a member of the [Centre for the Study of Democratic Citizenship](https://csdc-cecd.ca/). I like wrestling with social science questions using a combination of experimental and quasi-experimental techniques. 
+Hi! I am a Data Scientist at the [CUNY Institute for State and Local Governance](https://islg.cuny.edu/) where I support the work of the [NYPD Monitorship](https://www.safetyandjusticechallenge.org/) and the [NYPD Reform and Reinvention Collaborative](https://www.nyc.gov/site/policereform/index.page). Before moving to New York, I was a quantitative social science researcher at Dartmouth College and a [Bright Line Watch](http://brightlinewatch.org/) Fellow. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada. I enjoy wrestling with social science questions.
 
 
 
