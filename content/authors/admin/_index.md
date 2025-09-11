@@ -10,7 +10,6 @@ role: Data Scientist
 interests:
   - Criminal justice reform
   - Online information consumption
-  - Voting systems and voting behavior
   - Causal inference
 social:
   - icon: envelope
@@ -38,7 +37,11 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am a data scientist at the [CUNY Institute for State and Local Governance](https://islg.cuny.edu/) where I support the work of the [NYPD Monitor](https://www.nypdmonitor.org/) and the [NYPD Reform and Reinvention Collaborative](https://www.nyc.gov/site/policereform/index.page). Before moving to New York, I was a quantitative social science researcher at Dartmouth College and a [Bright Line Watch](http://brightlinewatch.org/) Fellow. I graduated with a Master's degree in Political Science from McGill University in Montréal, Canada. I enjoy wrestling with social science questions.
+Hi! I am a social data scientist/computational social scientist/quantitative researcher. For the past few years, I've been supporting public safety analytics at the CUNY Institute for State and Local Governance by building data pipelines and applying statistical/ML models to understand policing. Previously, I had a stint in academia and spent a lot of time thinking about how people consume and interact with information online.
+
+I'm currently looking for opportunities to make an impact in climate tech and ways to engage in environmental/sustainability efforts at any level. 
+
+Outside of work, you'll almost certainly find me on a tennis court, with my nose in a good book, or oil painting!
 
 
 
