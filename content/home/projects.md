@@ -8,6 +8,18 @@ weight = 65  # Order that this section will appear.
 title = "Projects"
 subtitle = "Flags"
 
+
+
+[[content]]
+  organization = "Annie Y. Chen"
+  title = "Who Flies the Flag? [WIP]"
+  url = "https://who-flies-the-flag.streamlit.app/._Map"
+  certificate_url = ""
+  date_start = "2025-09-15"
+  date_end = ""
+  description = "This app explores where American flags tend to be displayed in New York City using street-level imagery and object detection models to locate flags across the five boroughs. Flag display is not evenly distributed across the city, but instead reflects broader social, economic, and political patterns. Flags may be more common in neighborhoods with higher rates of homeownership, specific racial or ethnic compositions, or strong partisan affiliations. They may also cluster around public institutions or civic spaces. This analysis provides a window into how symbols of national identity—like the American flag—are woven into the urban fabric of New York City, and how their display might reflect deeper narratives about belonging, pride, and politics."
+
+
 [content]
 # Page type to display. E.g. project.
 page_type = "project"
@@ -35,7 +47,7 @@ page_type = "project"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

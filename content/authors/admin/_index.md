@@ -37,11 +37,11 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Hi! I am a social data scientist/computational social scientist/quantitative researcher. For the past few years, I've been supporting public safety analytics at the CUNY Institute for State and Local Governance by building data pipelines and applying statistical/ML models to understand policing. Previously, I had a stint in academia and spent a lot of time thinking about how people consume and interact with information online.
+Hi! I am a social data scientist | computational social scientist | quantitative researcher. I spent the past few years supporting public safety research for local government by designing studies and making sense of data using statistical/ML models. 
 
-I'm currently looking for opportunities to make an impact in climate tech and ways to engage in environmental/sustainability efforts at any level. 
+I'm currently exploring opportunities to make an impact in climate tech and ways to engage in environmental/sustainability efforts at any level.
 
-Outside of work, you'll almost certainly find me on a tennis court, with my nose in a good book, or oil painting!
+Outside of work, you will almost certainly find me on a tennis court, with my nose in a good book, or painting and crafting!
 
 
 
